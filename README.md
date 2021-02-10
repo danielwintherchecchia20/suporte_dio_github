@@ -1,6 +1,6 @@
 # Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
 
-Esse é o repositório da nossa aula de Projetos, na qual vamos fazer um prototipo de interface para o GitHub 
+Esse é o repositório da nossa aula de Projetos, na qual vamos fazer um prototipo de interface de login de suporte para o GitHub 
 
 ### Os requisitos são:
 
